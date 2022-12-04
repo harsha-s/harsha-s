@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsha
-- 👀 I’m interested in Golang, Python, K8s, Istio, AWS, GCP
+- 👀 I’m interested in Golang, Python, K8s, Istio, AWS, GCP, Azure
 - 🌱 I’m currently learning shift-left strategy, cloud security
 - 💞️ I’m looking to collaborate on cloud native projects 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harshas)
