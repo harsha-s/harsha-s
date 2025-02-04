@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsha
-- 👀 I’m interested in Golang, Python, K8s, Cloud
-- 🌱 I’m currently learning shift-left strategy for bringing both security and testing early in the SDLC
-- 💞️ I’m looking to collaborate on cloud native projects 
+- 👀 I’m interested in cloud-native architecture and GenAI
+- 🌱 I’m currently learning Multi-Agent AI to automate workflows 
+- 💞️ I’m looking to collaborate on GenAI work
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harshas)
 
 <!---
